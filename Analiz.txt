@@ -1,0 +1,30 @@
+---HIZ VERÝLERÝ---
+Yapýlan tuþlamalarýn genel hýzý: 280 tuþ/dakika --- 4.66 tuþ/saniye
+Ýlk 10sn deki yaklaþýk hýz: 6.00 tuþ/saniye
+Ýlk 20sn deki yaklaþýk hýz: 3.05 tuþ/saniye
+Ýlk 30sn deki yaklaþýk hýz: 0.00 tuþ/saniye
+
+---ZAMAN VERÝLERÝ---
+Yazmaya baþlamadan önce beklenen süre: 6.71 saniye
+Toplam yazma süresi: 12.86 saniye
+Toplam geçirilen zaman: 19.57 saniye
+Noktalardan (cümlelerden) sonra beklenen ortalama süre: 0.0 saniye
+Boþluklardan (kelimelerden) sonra beklenen ortalama süre: 0.3 saniye
+
+---METÝN VERÝLERÝ---
+Yazýlan yaklaþýk harf ve rakamlarýn sayýsý: 53
+Yazýlan yaklaþýk kelime sayýsý: 8
+Yazýlan yaklaþýk cümle sayýsý: 0
+Ortalama kelime uzunluðu: 6.2 harf
+Ortalama cümle uzunluðu: 108.3 kelime
+
+---TUÞ VERÝLERÝ---
+Basýlan tüm tuþlamalarýn sayýsý: 60
+Basýlan tüm harf ve rakamlarýn sayýsý: 53
+Basýlan Silme tuþu sayýsý: 0
+Basýlan Boþluk tuþu sayýsý: 7
+Basýlan Nokta tuþu sayýsý: 0
+Basýlan Virgül tuþu sayýsý: 0
+Basýlan Enter tuþu sayýsý: 0
+Basýlan CapsLock tuþu sayýsý: 0
+Basýlan Yön tuþlarýnýn toplam sayýsý: 0
